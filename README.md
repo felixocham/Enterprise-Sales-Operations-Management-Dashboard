@@ -135,4 +135,9 @@ Special thanks to the following creators and resources for their tutorials on ad
 
 ---
 
-*Developed by [Your Name]*
+## 📞 Contact
+
+**Felix Ocham**
+
+
+*[Linkedin Profile](https://www.linkedin.com/in/felix-o-703987a7/)*
