@@ -122,9 +122,16 @@ A granular detailed view containing raw row-level data.
 | <img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/4cafbff9-9546-478b-add9-1331af231fc1" /> |
 | <img width="1291" height="715" alt="image" src="https://github.com/user-attachments/assets/c7f6bcd3-7e7d-4031-ba36-6ad2991d54a7" /> |
 
+---
 
+## 🙏 Acknowledgements & Inspiration
+Special thanks to the following creators and resources for their tutorials on advanced Power BI techniques used in this project:
 
-
+* **SQLBI** - [Creating custom visuals in Power BI with DAX](https://www.youtube.com/watch?v=JG5EbW1wr70&t=1875s)
+* **Maven Analytics** - [Document Power BI Models in SECONDS with TMDL + AI](https://www.youtube.com/watch?v=stSAZlyTz74)
+* **Lets Talk Data** - [Transform Power BI Tables using SVGs](https://www.youtube.com/watch?v=Uwvek8pG9Xg&t=1420s)
+* **Next Level Power BI Reports** - [Design Next Level Power BI Filter Panes](https://www.youtube.com/watch?v=nbpdEcc-8Kc)
+* **W3 Schools** - [SVG Introduction](https://www.w3schools.com/graphics/svg_intro.asp)
 
 ---
 
